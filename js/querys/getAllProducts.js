@@ -1,5 +1,5 @@
 import showResults from '../utils/showResults.js';
-const url = 'http://localhost:3001';
+const url = 'https://bsale--back.herokuapp.com';
 
 /* fetch and display all products on user's first visit */
 const getAllProducts = () =>{

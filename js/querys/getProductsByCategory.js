@@ -1,5 +1,5 @@
 import showResults from '../utils/showResults.js';
-const url = 'http://localhost:3001';
+const url = 'https://bsale--back.herokuapp.com';
 
 /* It get all products by the category selected by the user and show them */
 const getProductsByCategory = (category) => {

@@ -1,5 +1,5 @@
 import showCategories from '../utils/showCategories.js';
-const url = 'http://localhost:3001';
+const url = 'https://bsale--back.herokuapp.com';
 
 /* It get all categories from db when app starts */
 const getAllCategories = () => {
